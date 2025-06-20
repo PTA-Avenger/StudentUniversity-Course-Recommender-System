@@ -1,0 +1,7 @@
+BEng Mechanical Engineering,TUT,32,Engineering
+BSc Computer Science,Wits,40,Information Technology
+LLB Law,UP,34,Law
+MBChB Medicine,UFS,42,Health Sciences
+BEd Senior Phase,UNISA,26,Education
+BCom Accounting,UJ,34,Commerce
+BA Psychology,UCT,30,Humanities

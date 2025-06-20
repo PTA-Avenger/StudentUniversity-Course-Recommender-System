@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Qt/6.7.0/msvc2019_64/include",
+        "C:/Qt/6.7.0/msvc2019_64/include/QtCore",
+        "C:/Qt/6.7.0/msvc2019_64/include/QtGui",
+        "C:/Qt/6.7.0/msvc2019_64/include/QtWidgets"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.3x.xxxxx/bin/Hostx64/x64/cl.exe",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}

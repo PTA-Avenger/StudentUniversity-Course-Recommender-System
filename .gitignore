@@ -1,0 +1,18 @@
+# Qt and C++ build
+*.obj
+*.o
+*.exe
+*.user
+*.user.*
+*.pro.user
+*.moc
+moc_*
+*.qrc
+*.layout
+build-*/
+bin/
+*.dll
+*.log
+Makefile*
+CMakeLists.txt.user
+*.vcxproj*
